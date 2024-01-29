@@ -1,0 +1,1 @@
+Here in the code, I have connected 8 channels, an hc-05 Bluetooth module, and Arduino which can be operated by a phone app named BTcontrol. It can performed automatic light on-off system using mobile phone and so on   
